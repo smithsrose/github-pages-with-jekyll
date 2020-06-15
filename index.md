@@ -9,4 +9,4 @@ Some things I absolutely LOVE to do include painting and playing the piano.
 I've also received multiple NAACH trophies for dance and I'm quite proud of them. 
 
 # Me:
-![alt text] (https://github.com/smithsrose/github-pages-with-jekyll/issues/5#issue-638922324)
+![alt text](https://user-images.githubusercontent.com/66958061/84673074-39e9cc00-aef7-11ea-852a-ce1a16dbce79.jpg)
