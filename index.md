@@ -7,3 +7,6 @@ My name is Smita Rosemary and I am 17 years old (I turned 17 during quarantine, 
 I worked my first job last year at Burger King, and the struggle is REAL. 
 Some things I absolutely LOVE to do include painting and playing the piano. 
 I've also received multiple NAACH trophies for dance and I'm quite proud of them. 
+
+# Me:
+![alt text] (https://github.com/smithsrose/github-pages-with-jekyll/issues/5#issue-638922324)
