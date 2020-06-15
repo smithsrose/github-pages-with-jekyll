@@ -1,6 +1,6 @@
 ---
-Title: "What is the BEST type of paint?"
-Date: 6/15/2020
+title: "What is the BEST type of paint?"
+date: 6/15/2020
 ---
 
 Recently I've begun to paint more and experiment with different types and mediums. Around a month ago I started using gouache and let me tell you!
