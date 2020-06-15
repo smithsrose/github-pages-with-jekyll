@@ -1,4 +1,7 @@
-What is the BEST type of paint?
+---
+title: What is the BEST type of paint?
+date: 6/15/2020
+---
 
 Recently I've begun to paint more and experiment with different types and mediums. Around a month ago I started using gouache and let me tell you!
 Gouach is absolutely amazing. Its the perfect mix of watercolor and acrylic! In my opinion is a painter wants the amazing solubility of watercolor yet with the opaqueness of acrylics, gouache is the paint for you.
